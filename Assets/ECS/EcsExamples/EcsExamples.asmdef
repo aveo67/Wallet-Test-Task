@@ -1,0 +1,21 @@
+{
+    "name": "EcsExamples",
+    "rootNamespace": "EcsExamples",
+    "references": [
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:e690ea87beb47a144b4a24d1f5677ca5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:0a89bccd557e8a047870201efeed35ce",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
